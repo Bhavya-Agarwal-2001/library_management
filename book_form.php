@@ -29,8 +29,6 @@
         }	
     ?>  
   </select>
-
-<p> Quantity: <input type = "text" name = "quantity"/></p>
 <p><input type = "submit" name = "submit" value = "sign in"/></p>
 </form>
 </body>
